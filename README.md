@@ -19,7 +19,7 @@ This project demonstrates my ability to derive meaningful insights from data and
 
 The full analysis, including data processing, calculations, and visualizations, is available in the Python script linked below:
 
-[View the Full Python Analysis Here](path/to/your/python_file.py)
+[View the Full Python Analysis Here](https://github.com/MaryamRafiquee/Unicorn-Companies-Analysis/blob/main/unicorn_analysis.ipynb)
 
 ## :bookmark: Visualizations
 
